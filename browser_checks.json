@@ -1,0 +1,19 @@
+{
+  "browser": "Chromium via Chrome DevTools",
+  "file_protocol": true,
+  "records": 2587,
+  "initial_cards": 30,
+  "code_search_test": true,
+  "two_subject_intersection_count": 3,
+  "lecture_video_including_external_count": 307,
+  "external_lecture_video_count": 26,
+  "external_mooc_entry_count": 40,
+  "retired_filter_count": 2,
+  "pagination_test": true,
+  "full_description_dialog_matches_data": true,
+  "filtered_csv_bom": true,
+  "filtered_csv_rows": 3,
+  "filtered_csv_full_description_preserved": true,
+  "browser_console_errors": 0,
+  "separate_computer_tested": false
+}

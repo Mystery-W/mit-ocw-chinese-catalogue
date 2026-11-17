@@ -1,0 +1,12 @@
+*.py text eol=lf
+*.mjs text eol=lf
+*.md text eol=lf
+# Snapshot bytes must match the published SHA-256 manifest on every platform.
+*.json -text
+*.html -text
+*.tsv -text
+*.xml -text
+*.csv -text
+*.txt -text
+*.xlsx binary
+*.zip binary

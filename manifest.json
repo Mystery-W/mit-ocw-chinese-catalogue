@@ -1,0 +1,34 @@
+{
+  "打开课程目录.html": {
+    "bytes": 11741848,
+    "sha256": "01851fa3598816b252fbc0413eda84bca776aaa7be403a948420e8bd64f2b0c2"
+  },
+  "课程总目录.csv": {
+    "bytes": 4730360,
+    "sha256": "a5c4895155400af30b0925b3f2f1550cd407e47ec8065d4723019ac18e8b860c"
+  },
+  "课程完整数据.json": {
+    "bytes": 14165088,
+    "sha256": "125aae5bb44b4785699b68a136229f8f9244a09f27cccd09a781f66576b75225"
+  },
+  "使用说明.txt": {
+    "bytes": 5123,
+    "sha256": "baf8dbaefd55ae55cef30978ab18c803cc1572c65d4780a0ef02fc2724681a4f"
+  },
+  "validation.json": {
+    "bytes": 935,
+    "sha256": "bd4c44f396c376be95a33ce42a3b47887c4547178dfed46f1ca17892eb54b82c"
+  },
+  "file_consistency_checks.json": {
+    "bytes": 277,
+    "sha256": "bd5579a48abb1b5ebc7330721e241ff6c217481e0c3c589e72bd14d11936821f"
+  },
+  "browser_checks.json": {
+    "bytes": 598,
+    "sha256": "0e0938783b12b0666152017c9b0ba4d170513aaac750f1595dcab8a1b4f8b9f1"
+  },
+  "MIT_OCW课程总目录.xlsx": {
+    "bytes": 1708853,
+    "sha256": "d518b2fc90dddf1fb416dd9e07da0cb45692c4573b973ede272d1e59fdd06352"
+  }
+}

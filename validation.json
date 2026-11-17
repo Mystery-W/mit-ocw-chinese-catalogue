@@ -1,0 +1,33 @@
+{
+  "built_at": "2026-11-17T23:44:53+08:00",
+  "course_count": 2587,
+  "unique_codes": 2220,
+  "distinct_english_titles": 2382,
+  "missing_titles_zh": [],
+  "missing_codes": [],
+  "missing_descriptions": [],
+  "missing_topics": [],
+  "title_differences": [],
+  "resource_counts": {
+    "D 讲义或开放教材": 1160,
+    "E 作业、阅读或其他学习资料": 928,
+    "B 其他教学视频": 107,
+    "A 授课视频": 281,
+    "F 外部课程或资源入口": 94,
+    "C 授课音频": 15,
+    "H 已退役，转至档案库": 2
+  },
+  "lecture_video_flag_count": 307,
+  "failed_captures": 0,
+  "resource_entry_checks": 404,
+  "resource_entry_check_failures": 0,
+  "coverage": {
+    "discovered_at": "2026-11-17T23:17:20+08:00",
+    "search_total": 2587,
+    "search_unique_urls": 2587,
+    "sitemap_course_urls": 2587,
+    "search_only": [],
+    "sitemap_only": [],
+    "union_total": 2587
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/": {
+    "resource_category": "H 已退役，转至档案库",
+    "classification_basis": "官网简介明确写明 retired from OCW；导航保留 DSpace 档案入口。未核验档案的下载和播放。",
+    "primary_resource_url": "https://dspace.mit.edu/handle/1721.1/150580",
+    "primary_resource_label": "Archived DSpace Course"
+  },
+  "https://ocw.mit.edu/courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/": {
+    "resource_category": "H 已退役，转至档案库",
+    "classification_basis": "官网简介明确写明 retired from OCW；导航保留 DSpace 档案入口。未核验档案的下载和播放。",
+    "primary_resource_url": "https://dspace.mit.edu/handle/1721.1/150601",
+    "primary_resource_label": "Archived DSpace Course"
+  },
+  "https://ocw.mit.edu/courses/res-11-001-cite-reports-fall-2015/": {
+    "resource_category": "E 作业、阅读或其他学习资料",
+    "classification_basis": "已核查 CITE Reports 页面，提供技术评估报告入口。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-11-001-cite-reports-fall-2015/pages/cite-reports/",
+    "primary_resource_label": "CITE Reports"
+  },
+  "https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/": {
+    "resource_category": "D 讲义或开放教材",
+    "classification_basis": "已核查 Essay 1/2/3 页面，包含 Online Textbook、PDF 章节及 MATLAB/Fortran 文件。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-12-001-topics-in-fluid-dynamics-fall-2024/pages/essay-1-lagrangian-and-eulerian-representations-of-fluid-flow-kinematics-and-the-equations-of-motion/",
+    "primary_resource_label": "Essay 1: Lagrangian and Eulerian Representations of Fluid Flow: Kinematics and the Equations of Motion",
+    "has_notes": true
+  },
+  "https://ocw.mit.edu/courses/res-21w-01-angles-fall-2015/": {
+    "resource_category": "E 作业、阅读或其他学习资料",
+    "classification_basis": "已核查 Angles Archives 页面，提供 2008—2015 年学生写作在线期刊入口。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-21w-01-angles-fall-2015/pages/angles-archives/",
+    "primary_resource_label": "Angles Archives"
+  },
+  "https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/": {
+    "resource_category": "A 授课视频",
+    "classification_basis": "官网简介说明为 brief video course；逐个资源页列出 Laser Fundamentals 与 Fiberoptics Fundamentals。入口页面 HTTP 200，未逐个验证播放。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-6-005-understanding-lasers-and-fiberoptics-spring-2008/resources/laser-fundamentals-i/",
+    "primary_resource_label": "Laser Fundamentals I",
+    "has_lecture_video": true,
+    "video_evidence": "官网简介与 Laser Fundamentals 视频资源页"
+  },
+  "https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/": {
+    "resource_category": "B 其他教学视频",
+    "classification_basis": "官网简介明确说明 48 个激光与光学视频演示；演示目录页面可访问。未验证全套播放。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-6-006-video-demonstrations-in-lasers-and-optics-spring-2008/pages/demonstrations-in-physical-optics/",
+    "primary_resource_label": "Demonstrations in physical optics",
+    "has_other_video": true,
+    "video_evidence": "官网简介与 demonstrations 视频演示目录"
+  },
+  "https://ocw.mit.edu/courses/res-gem4-global-enterprise-for-micro-mechanics-and-molecular-medicine-gem4-summer-2006-summer-2007/": {
+    "resource_category": "E 作业、阅读或其他学习资料",
+    "classification_basis": "已核查 GEM4 旧站门户，提供 2006、2007 年暑期学校资料入口；未逐项核查全部材料。",
+    "primary_resource_url": "https://ocw.mit.edu/ans7870/GEM4/index.html",
+    "primary_resource_label": "GEM⁴ Online"
+  },
+  "https://ocw.mit.edu/courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024/": {
+    "resource_category": "E 作业、阅读或其他学习资料",
+    "classification_basis": "已核查 Introduction 与 Step 1/2/3 页面，提供完整文字教程、模板及样例。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024/pages/introduction/",
+    "primary_resource_label": "Introduction"
+  },
+  "https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/": {
+    "resource_category": "D 讲义或开放教材",
+    "classification_basis": "已核查 Workshop Materials 页面，列出研究数据管理、共享、组织和版本控制的 PDF 演示文稿。",
+    "primary_resource_url": "https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/pages/workshop-materials/",
+    "primary_resource_label": "Workshop Materials",
+    "has_notes": true
+  }
+}

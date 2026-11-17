@@ -1,0 +1,14 @@
+# Generated caches and machine-specific runtime dependencies remain local.
+__pycache__/
+*.pyc
+node_modules/
+cache/
+entry_checks/
+snapshots/
+*.log
+*.inspect.ndjson
+workbook_rows.json
+*_preview.png
+.env
+.env.*
+!.env.example
